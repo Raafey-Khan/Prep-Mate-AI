@@ -77,11 +77,10 @@ with our AI-powered interview prep</p>
       >
        <AtomIcon className='h-8 w-8'/>
 
-        <h2 className="mt-4 text-xl font-bold text-black">Write promot for your form</h2>
+        <h2 className="mt-4 text-xl font-bold text-black">Write prompt for your interview</h2>
 
         <p className="mt-1 text-sm text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
-          distinctio alias voluptatum blanditiis laudantium.
+         Write your skills and interest and position for AI to ask you and get your skills leverage
         </p>
       </a>
 
@@ -94,8 +93,7 @@ with our AI-powered interview prep</p>
         <h2 className="mt-4 text-xl font-bold text-black">Edit Your form </h2>
 
         <p className="mt-1 text-sm text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
-          distinctio alias voluptatum blanditiis laudantium.
+          Edit your form and customize it by technologies you want to get asked by AI
         </p>
       </a>
 
@@ -108,8 +106,7 @@ with our AI-powered interview prep</p>
         <h2 className="mt-4 text-xl font-bold text-black">Share & Start Accepting Responses</h2>
 
         <p className="mt-1 text-sm text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
-          distinctio alias voluptatum blanditiis laudantium.
+          Share with your Friends your feedback score 
         </p>
       </a>
 
